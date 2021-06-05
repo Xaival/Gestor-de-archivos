@@ -1,5 +1,5 @@
 # Gestor de archivos
-Aplicación Windows para gestión de archivos y directorios
+Aplicación de Windows portable para gestión de archivos y directorios
 
 Inicio
 ![0 Inicio](https://user-images.githubusercontent.com/54257745/120906912-a8222400-c65d-11eb-9b21-249788be314a.png)
