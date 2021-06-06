@@ -1,5 +1,5 @@
 # Gestor de archivos
-Aplicación de Windows portable para gestión de archivos y directorios
+Aplicación de Windows portable para gestión de archivos y directorios.
 
 
 ## Como descargar
