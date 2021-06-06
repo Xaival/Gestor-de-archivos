@@ -3,10 +3,10 @@ Aplicación de Windows portable para gestión de archivos y directorios
 
 
 ## Como descargar
-1. Entra en el archivo donde pone en la imagen o [aqui](https://github.com/Xaival/Gestor-de-archivos/blob/main/Gestor%20de%20archivos.exe).
+1. Entra en el archivo donde pone la imagen o [aquí](https://github.com/Xaival/Gestor-de-archivos/blob/main/Gestor%20de%20archivos.exe).
 ![1](https://user-images.githubusercontent.com/54257745/120911512-580c8700-c688-11eb-82d7-456f822d2b59.png)
 
-2. Pusla en el boton de descargar para descargar el archivo.
+2. Pulsa en el botón de descargar para descargar el archivo.
 ![2](https://user-images.githubusercontent.com/54257745/120911514-58a51d80-c688-11eb-810b-96fb657ef7d5.png)
 
 ## Inicio
@@ -16,19 +16,19 @@ Aplicación de Windows portable para gestión de archivos y directorios
 Organiza los archivos en carpetas por tipo, nombre o fecha.
 ![1 Ordenar](https://user-images.githubusercontent.com/54257745/120906913-a8baba80-c65d-11eb-964c-baf60c8341d6.png)
 
-## Crear
+## Creación de carpetas
 Crea un grupo de carpetas rápidamente.
 ![2 Crear](https://user-images.githubusercontent.com/54257745/120906914-a8baba80-c65d-11eb-9547-78f7264f4f37.png)
 
-## Mapeado
-Escanea árbol de directorios.
+## Mapeo de carpetas
+Escanea un árbol de directorios.
 ![3 Mapeado](https://user-images.githubusercontent.com/54257745/120906915-a8baba80-c65d-11eb-949c-b5a4132ca7d2.png)
 
-## Delete
+## Eliminación selectiva
 Elimina selectivamente archivos por su tipo.
 ![4 Delete](https://user-images.githubusercontent.com/54257745/120906916-a9535100-c65d-11eb-92c6-320ee0a5d04f.png)
 
-## Temp
+## Archivos temporales
 Borrar cache y programar limpieza automática de caché.
 ![5 Temp](https://user-images.githubusercontent.com/54257745/120906917-a9535100-c65d-11eb-8e52-56fafef49431.png)
 
