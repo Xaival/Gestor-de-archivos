@@ -3,60 +3,62 @@ Correccion en renombrar archivos.<br>
 > Al darle a extraer el nombre sino se especificaba hasta donde daba error.<br>
 > Ahora por defecto si no se especifica devolvera el resto del nombre.
 
-## Version 2021.08.06 
-Vaciado de datos antiguos y boceto.
+## [Version 2021.08.06](https://github.com/Xaival/Gestor-de-archivos/raw/main/APP/Gestor%20de%20archivos%20v2021.08.06.exe)
+Proyecto terminado para usar.
 
-## Version 2021.08.05
-Copia de seguridad completa.
+<br><hr><br>
 
 ## Version 2021.06.05
 Notas de informacion al poner el raton encima.<br>
 Terminado apartado de renombrado de archivos.
 
 ## Version 2021.06.04 
-Mejoras de la interfaz y correciones formulas.
+Mejoras en la interfaz y correcciones en el código.
 
 ## Version 2021.06.03
-Mejoras generales y Nuevo apartado Renombrado.
+Mejoras generales.<br>
+Nuevo apartado renombrado de archivos.
 
 ## Version 2021.06.02
-Terminado ordenar
+Terminado de programar el sistema de ordenar archivos.
 
 ## Version 2021.05.30
-Scroll en menu
+Funcionalidad de desplazamiento vertical en el menú.
 
 ## Version 2021.05.27
-Mejora mapeado
+Mejoras de mapeado de archivos.
 
 ## Version 2021.05.26
-Almacena la ruta
+Mantiene la ruta de la carpeta seleccionada al cambiar de opción.
 
 ## Version 2021.05.25
-Terminado Abduptor y mejoras
+Añadido un extractor de archivos y terminado.<br>
+Mejoras generales.
 
 ## Version 2021.05.24
-Terminado Crear
+Terminado de programar el creador de carpetas.
 
 ## Version 2021.05.23
-Terminado Delete
+Terminado de programar el eliminador selectivo.
 
 ## Version 2021.05.21
-Terminado TempDel y Mapeo
+Terminado de programar el mapeado de archivos.
 
 ## Version 2021.05.19
-Terminado TempDel y Casi Mapeo
+Terminado de programar el eliminador de archivos temporales.<br>
+Avances en la programación del mapeado de archivos.
 
 ## Version 2021.05.19
-Reajustes logo
+Reajustes de logos de la aplicación.
 
 ## Version 2021.05.14
-Diseño terminado
+Reestructuración de diseño.
 
 ## Version 2021.05.12
-Forms indexados
+Contenidos e imagen de fondo al inicio con el logo.
 
 ## Version 2021.05.09
-Imagenes menu
+Agregado imágenes en el menú.
 
 ## Version 2021.05.07
-Nuevo proyecto
+Creación de diferentes apartados.
