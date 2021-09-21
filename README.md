@@ -3,7 +3,7 @@ Aplicación de Windows portable para gestión de archivos y directorios.
 
 
 ## Como descargar
-1. Entra en el archivo donde pone la imagen o [aquí](https://github.com/Xaival/Gestor-de-archivos/blob/main/APP/Gestor%20de%20archivos%20v2021.09.20.exe).
+1. Entra en el archivo donde pone la imagen o [aquí](https://github.com/Xaival/Gestor-de-archivos/raw/main/APP/Gestor%20de%20archivos%20v2021.09.20.exe).
 ![1](https://user-images.githubusercontent.com/54257745/120911512-580c8700-c688-11eb-82d7-456f822d2b59.png)
 
 2. Pulsa en el botón de descargar para descargar el archivo.
