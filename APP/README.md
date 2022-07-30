@@ -1,7 +1,6 @@
 ## [Version 2021.09.20](https://github.com/Xaival/Gestor-de-archivos/raw/main/APP/Gestor%20de%20archivos%20v2021.09.20.exe)
 Correccion en renombrar archivos.<br>
-> Si al darle a extraer el nombre no se especificaba hasta donde daba error.
-> 
+> Si al darle a extraer el nombre no se especificaba hasta donde daba error.<br>
 > Ahora por defecto si no se especifica devolvera el resto del nombre.
 
 ## [Version 2021.08.06](https://github.com/Xaival/Gestor-de-archivos/raw/main/APP/Gestor%20de%20archivos%20v2021.08.06.exe)
